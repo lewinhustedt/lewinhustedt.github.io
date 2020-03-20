@@ -84,18 +84,15 @@ div {
 
 
 
-iframe {
+.vid {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		border-radius: 30px;
-		border: 3px solid white;
-				width: 47vw;
-				height: 27vw;
+		border: 5px solid white;
+		width: 70vw;
+		height: 39.5vw;
 }
-
-
-
 
 
 
