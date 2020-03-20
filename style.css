@@ -82,6 +82,16 @@ div {
 		border: 5px solid white;
 }
 
+.center2 {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 1280px;
+		height: 720px;
+		border-radius: 30px;
+		border: 2px solid white;
+}
+
 
 
 
